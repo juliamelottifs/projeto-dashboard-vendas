@@ -1,7 +1,7 @@
 # projeto-dashboard-vendas
 Dashboard de vendas com MySQL e Power BI
 
-# 📊 Dashboard de Vendas - Power BI + MySQL
+# 📊 Dashboard de Vendas | Power BI + MySQL
 
 ## 🚀 Sobre o projeto
 

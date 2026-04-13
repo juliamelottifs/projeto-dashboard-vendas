@@ -23,7 +23,7 @@ Este projeto consiste na criação de um dashboard de vendas utilizando dados ar
 
 ## 📷 Preview do Dashboard
 
-(Coloque aqui a imagem do seu dashboard)
+![Dashboard](https://raw.githubusercontent.com/juliamelottifs/dashboard-vendasdb/main/dashboard-vendasdb.png)
 
 ## 📁 Arquivos
 

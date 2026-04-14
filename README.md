@@ -5,7 +5,7 @@ Dashboard de vendas com MySQL e Power BI
 
 ## 🚀 Sobre o projeto
 
-Este projeto consiste na criação de um dashboard de vendas utilizando dados armazenados em um banco MySQL e visualizados no Power BI.
+Esse projeto consiste na criação de um dashboard de vendas utilizando dados armazenados em um banco MySQL e visualizados no Power BI.
 
 ## 📌 Análises realizadas
 
